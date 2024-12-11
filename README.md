@@ -3,6 +3,10 @@ Dokumentasi
 
 
 
+https://github.com/user-attachments/assets/17cc58e8-3b04-40b8-87ee-9c2ece5807aa
+
+
+
 Teknologi yang Dipakai
 ------------
 1. Python
